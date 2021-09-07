@@ -1,5 +1,5 @@
 # Task_Tracker
- Simple Angular app that allows the user to track his tasks 
+ Simple Angular app that allows the user to track its tasks 
  
  * Features:
   * Add a task
