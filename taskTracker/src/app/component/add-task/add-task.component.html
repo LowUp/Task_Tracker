@@ -5,12 +5,12 @@
     </div>
     
     <div class="form-control">
-        <label for="day">Day & Time</label>
-        <input type="text" name="day" [(ngModel)]="day" id="day" placeholder="Add day">
-    </div>
+            <label for="day"> Day & time </label>
+            <input type="date" name="day" [(ngModel)]="day" id="day">      
+    </div> 
 
     <div class="form-control form-control-check">
-        <label for="day">Set Reminder</label>
+        <label for="reminder">Set Reminder</label>
         <input type="checkbox" name="reminder" [(ngModel)]="reminder" id="reminder">
     </div>
     <input type="submit" value="Save Task" class="btn btn-block">

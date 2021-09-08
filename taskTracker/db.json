@@ -1,22 +1,22 @@
 {
   "tasks": [
     {
-      "id": 1,
+      "text": "Gp appointment",
+      "day": "16 September at 16:00",
+      "reminder": true,
+      "id": 1
+    },
+    {
       "text": "School appointment",
-      "day": "September 9th at 2:30pm",
-      "reminder": false
+      "day": "04 September 2023",
+      "reminder": false,
+      "id": 2
     },
     {
-      "id": 2,
-      "text": "Teachers reunion",
-      "day": "September 11th at 5:30pm",
-      "reminder": false
-    },
-    {
-      "id": 3,
-      "text": "Student math test",
-      "day": "September 1st at 9:00am",
-      "reminder": false
+      "text": "Test 1",
+      "day": "2021-09-10",
+      "reminder": false,
+      "id": 4
     }
   ]
 }
